@@ -16,14 +16,12 @@ From AI tools like **Lexley** to full-stack web applications, I love taking idea
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rudrakr21/" target="_blank">
-    <img alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:#0077B5;" />
+    <img alt="LinkedIn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
   <a href="https://www.instagram.com/rudra_21s/" target="_blank">
     <img alt="Instagram" height="30" width="40" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" />
   </a>
 </p>
-
-
 
 ---
 
