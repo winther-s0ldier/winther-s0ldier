@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Rudra</h1>
+<h1 align="center">Hey there , I'm Rudra</h1>
 <h3 align="center">AI/ML Developer | Builder of ideas into products</h3>
 
 💡 Always experimenting at the intersection of **Machine Learning, LLMs, and AI**.  
