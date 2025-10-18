@@ -8,7 +8,6 @@ From AI tools like **Lexley** to full-stack web applications, I love taking idea
 
 - 🚀 **Currently building:** Lexley – an AI-powered legal drafting tool.  
 - 🧠 **Exploring:** LLM fine-tuning, FastAPI, and AI-driven automation.  
-- ⚽ **Fun fact:** Proud Tottenham Hotspur fan — pain is temporary, Spurs are forever.  
 - 📫 Reach me: **rudrakumar1612@gmail.com**  
 
 ---
