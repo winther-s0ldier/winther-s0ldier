@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2d5a27&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://i.pinimg.com/originals/83/0e/0f/830e0fdceaf364e4eb90d734f95dab7b.gif" width="100%"/>
 
 # Rudra Kumar
 ### AI/ML Developer &nbsp;·&nbsp; Builder of ideas into products
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrakr21/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudra_21s/)
-[![Mail](https://img.shields.io/badge/rudrakumar1612@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrakumar1612@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dng6v77nyk3uxwbkcrx4fcjg8?si=9cb2048cf52647a2)
 
 </div>
 
@@ -50,23 +49,9 @@ When I'm not training models or wiring up APIs, I'm exploring whatever feels int
 
 ---
 
-<details>
-<summary><b>📊 &nbsp;Stats</b></summary>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=winther-s0ldier&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="top languages"/>
-</details>
-
----
-
 <div align="center">
-
-### 🌳 Gitwood — my developer journey, growing in real time
 
 
 ![Gitwood](https://raw.githubusercontent.com/winther-s0ldier/gitwood/main/gitwood.svg)
 
-<sub>Built with <a href="https://github.com/winther-s0ldier/gitwood">Gitwood</a> — pixel-art GitHub ecosystem SVG</sub>
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d5a27,100:0d1117&height=80&section=footer" width="100%"/>
